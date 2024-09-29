@@ -1,6 +1,6 @@
 #Number guessing game by Nitin Tony Paul
 '''A random number will be selected from 1 to n where n is inputed by the user.
-The use has to try to guess the number with minimum tries'''
+The user has to try to guess the number with minimum tries'''
 #Modules used: random
 
 #Importing necessary module(s)
