@@ -4,7 +4,7 @@ The use has to try to guess the number with minimum tries'''
 #Modules used: random
 
 #Importing necessary module(s)
-import random #Built-in
+import random #Built-in module
 
 #Decoration + intro text + decoration
 print("---------------------------------------------------------------------------------")
