@@ -28,7 +28,7 @@ while weight < 0 or height < 0:
 print("-------------------------------------------------------------------------------------------")
 
 #Calculating BMI
-#BMI = weight in kilograms ÷ height in cm, squared
+#BMI = weight in kilograms ÷ height in meter, squared
 BMI = weight/((height/100)**2)
 
 #Classifying their message regarding weight according to their BMI
